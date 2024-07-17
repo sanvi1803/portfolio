@@ -371,7 +371,7 @@ img {
 }
 
 .home__img {
-    background: url("tenor.gif");
+    background: url("assets/tenor.gif");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
